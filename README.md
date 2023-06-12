@@ -4,6 +4,10 @@ Weekly summaries of AI news with [@samuelalbanie](https://twitter.com/SamuelAlba
 
 Discord server for content suggestions: [link](https://discord.gg/KHwtzmSgcm)
 
+## 12th June 2023
+
+- **Full video** (12 mins) <img src="images/youtube-icon.png" alt="YouTube icon" width="24" height="18" style="vertical-align: middle;"> [YouTube](https://www.youtube.com/watch?v=Wyq1Z-a3c2Y)
+
 ## 5th June 2023
 
 - **Full video** (12 mins) <img src="images/youtube-icon.png" alt="YouTube icon" width="24" height="18" style="vertical-align: middle;"> [YouTube](https://www.youtube.com/watch?v=_IdlztBh-CY)
